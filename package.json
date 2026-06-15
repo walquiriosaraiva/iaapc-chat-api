@@ -1,0 +1,17 @@
+{
+	"name": "iaapc-chat-api",
+	"version": "1.0.0",
+	"private": true,
+	"type": "module",
+	"description": "API serverless de chat do Instituto Abraçar de Apoio aos Portadores de Câncer.",
+	"scripts": {
+		"check": "node --check api/chat.js && node --check server.js",
+		"dev": "node server.js"
+	},
+	"engines": {
+		"node": ">=18"
+	},
+	"dependencies": {
+		"@google/generative-ai": "^0.24.1"
+	}
+}

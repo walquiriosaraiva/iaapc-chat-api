@@ -1,0 +1,20 @@
+{
+  "faq": [
+    {
+      "question": "O que e o Instituto Abracar?",
+      "answer": "O Instituto Abracar de Apoio aos Portadores de Cancer e uma organizacao dedicada ao acolhimento integral de pacientes com cancer e suas familias."
+    },
+    {
+      "question": "Que tipo de apoio o Instituto oferece?",
+      "answer": "O Instituto oferece acolhimento humanizado, suporte integral e orientacao institucional para pessoas que enfrentam o cancer e para seus familiares."
+    },
+    {
+      "question": "O assistente pode orientar tratamento medico?",
+      "answer": "Nao. O assistente pode explicar informacoes institucionais e acolher o visitante, mas nunca substitui medicos nem fornece diagnostico, exames ou prescricao."
+    },
+    {
+      "question": "O que fazer em caso de urgencia?",
+      "answer": "Em caso de urgencia, a orientacao correta e procurar atendimento medico imediato ou o servico de emergencia da sua regiao."
+    }
+  ]
+}
